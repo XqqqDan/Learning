@@ -15,4 +15,5 @@ def first_diffs_2d_matrix(m, n):
     return A
 
 
-A = first_diffs_2d_matrix(4, 3)
+A = first_diffs_2d_matrix(550, 430)
+print(A)

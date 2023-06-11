@@ -1,0 +1,4 @@
+Pytorch/XTD/hymenoptera_data/*
+Pytorch/XTD/logs/*
+Pytorch/XTD/train_data/*
+*.jpg
